@@ -10,3 +10,4 @@ This is a more complex version of SimpleColorThresholder. They do essentially th
 
 # ASN4: 
 CylinderHighlighter: 
+This method creates a new video based off of Vid2.mp4 that highlights the orange and white cylinder in each frame. The result is stored in Output.mp4. 
